@@ -11,6 +11,6 @@ Commission (IOC), of UNESCO (United Nations Educational, Science and Cultural Or
 Data and Information Exchange.
 
 Relevant links:
-* https://www.gbif.org/installation/a9c3f3b6-1f98-49c3-ba50-7e6aa1c9de59
-* https://ipt-obis.gbif.us/
-* https://obis.org/node/b7c47783-a020-4173-b390-7b57c4fa1426
+* <https://www.gbif.org/installation/a9c3f3b6-1f98-49c3-ba50-7e6aa1c9de59>
+* <https://ipt-obis.gbif.us/>
+* <https://obis.org/node/b7c47783-a020-4173-b390-7b57c4fa1426>

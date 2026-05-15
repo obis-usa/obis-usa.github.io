@@ -4,10 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+The OBIS-USA Integrated Publishing Toolkit is managed by the [NOAA Integrated Ocean Observing System (IOOS)](https://ioos.noaa.gov/), and 
+includes marine observation data collected in U.S. Waters or with U.S. funding. OBIS-USA is part of an international 
+data sharing network (Ocean Biodiversity Information System, OBIS) coordinated by the Intergovernmental Oceanographic 
+Commission (IOC), of UNESCO (United Nations Educational, Science and Cultural Organization International Oceanographic 
+Data and Information Exchange.
 
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
-
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+Relevant links:
+* https://www.gbif.org/installation/a9c3f3b6-1f98-49c3-ba50-7e6aa1c9de59
+* https://ipt-obis.gbif.us/
+* https://obis.org/node/b7c47783-a020-4173-b390-7b57c4fa1426

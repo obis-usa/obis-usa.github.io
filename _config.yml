@@ -9,6 +9,7 @@ description: > # Meta description of Homepage
   Data and Information Exchange.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://obis-usa.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+github: "https://github.com/obis-usa/obis-usa.github.io/"
 
 # SEO PLUGIN
 # social:

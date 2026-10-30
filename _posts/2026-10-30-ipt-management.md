@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IPT Management
-summary: Markdown is a way to style text on the web. You control the display of the document; formating words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in.
+summary: Specific guidance on how OBIS-USA interprets the information on the GBIF-IPT. 
 featured-img: emile-perron-190221
 categories: Guides
 ---
@@ -9,9 +9,9 @@ categories: Guides
 # How to Guide for Managing the OBIS-USA IPT
 
 ## Resources:
-* IPT Manual: https://ipt.gbif.org/manual/en/ipt/latest/
-* GitHub Repository: https://github.com/gbif/ipt
-* OBIS-USA IPT: https://ipt-obis.gbif.us/
+* IPT Manual: <https://ipt.gbif.org/manual/en/ipt/latest/>
+* GitHub Repository: <https://github.com/gbif/ipt>
+* OBIS-USA IPT: <https://ipt-obis.gbif.us/>
 
 ## Contacts
 
@@ -40,10 +40,10 @@ GBIF will automatically update the IPT to the most recent version. If this is no
 Darwin Core consists of a [core set of terms](https://dwc.tdwg.org/terms/) as well as a [set of extensions](https://rs.gbif.org/extensions.html) to augment the core. The Darwin Core standard and its extensions is maintained by [TDWG (the Taxonomic Databases Working Group)](https://www.tdwg.org/) which is a vibrant, active community (please consider joining and contributing to the maintainance). Given the active nature of the standard and the extensions they need to be updated when changes are made. To update the extensions, follow the step-by-step guide below.
 
 ### Step-by-Step
-1. Log into the IPT as an **Administrator**: https://ipt-obis.gbif.us/
-2. Browse to **Administration**: https://ipt-obis.gbif.us/admin/
+1. Log into the IPT as an **Administrator**: <https://ipt-obis.gbif.us/>
+2. Browse to **Administration**: <https://ipt-obis.gbif.us/admin/>
    <img width="628" height="197" alt="image" src="https://github.com/user-attachments/assets/b8364aec-5042-4c4d-b8c7-24f02a3c1ab7" />
-4. Click the **View** link in Darwin Core Types and Extensions. https://ipt-obis.gbif.us/admin/extensions.do
+4. Click the **View** link in Darwin Core Types and Extensions. <https://ipt-obis.gbif.us/admin/extensions.do>
    <img width="334" height="224" alt="image" src="https://github.com/user-attachments/assets/3af24ba8-0d07-41dc-a9c8-97885e83eea3" />
 1. Review if any Darwin Core types or extensions need to be updated.
 2. If they need to be updated, click **Update**.
@@ -63,7 +63,7 @@ The roles for managing the IPT include:
 
 ## OBIS-USA IPT Node Manager responsibilities
 Most of what the IPT manager does is contained in the Administration Dashboard of the IPT. The node manager should be aware of updates to the IPT software by joining 
-the GBIF IPT Mailing list (https://lists.gbif.org/mailman/listinfo/ipt/) and following the IPT GitHub repository (https://github.com/gbif/ipt). 
+the GBIF IPT Mailing list (<https://lists.gbif.org/mailman/listinfo/ipt/>) and following the IPT GitHub repository (<https://github.com/gbif/ipt>). 
 
 * Manage user accounts including adding new users (four types of accounts) and periodically reviewing user account access to remove access for stale accounts
 * Adds associated organizations
@@ -77,7 +77,7 @@ the GBIF IPT Mailing list (https://lists.gbif.org/mailman/listinfo/ipt/) and fol
 
 ## How does a data manager request reviews of their datasets?
 
-* Log an issue at https://github.com/ioos/bio_data_guide/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22data%20help%22.
+* Log an issue at <https://github.com/ioos/bio_data_guide/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22data%20help%22.>
 
 ## Cleaning out datasets on the OBIS-USA IPT
 

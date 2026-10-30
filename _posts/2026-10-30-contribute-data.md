@@ -17,14 +17,14 @@ included in OBIS database.
 
 OBIS requires eight terms from the Darwin Core standard:
 
-[eventDate](https://dwc.tdwg.org/terms/#dwc:eventDate)
-[decimalLatitude](https://dwc.tdwg.org/terms/#dwc:decimalLatitude)
-[decimalLongitude](https://dwc.tdwg.org/terms/#dwc:decimalLongitude)
-[scientificName](https://dwc.tdwg.org/terms/#dwc:scientificName)
-[scientificNameID](https://dwc.tdwg.org/terms/#dwc:scientificNameID)
-[occurrenceStatus](https://dwc.tdwg.org/terms/#dwciri:occurrenceStatus)
-[basisOfRecord](https://dwc.tdwg.org/terms/#dwc:basisOfRecord)
-[occurrenceID](https://dwc.tdwg.org/terms/#dwc:occurrenceID)
+* [eventDate](https://dwc.tdwg.org/terms/#dwc:eventDate)
+* [decimalLatitude](https://dwc.tdwg.org/terms/#dwc:decimalLatitude)
+* [decimalLongitude](https://dwc.tdwg.org/terms/#dwc:decimalLongitude)
+* [scientificName](https://dwc.tdwg.org/terms/#dwc:scientificName)
+* [scientificNameID](https://dwc.tdwg.org/terms/#dwc:scientificNameID)
+* [occurrenceStatus](https://dwc.tdwg.org/terms/#dwciri:occurrenceStatus)
+* [basisOfRecord](https://dwc.tdwg.org/terms/#dwc:basisOfRecord)
+* [occurrenceID](https://dwc.tdwg.org/terms/#dwc:occurrenceID)
 
 OBIS-USA uses the OBIS-ENV-DATA version of the Darwin Core standard, wherever appropriate. For more information about OBIS-ENV-DATA 
 see the [Darwin Core Archive including OBIS-ENV-DATA](https://manual.obis.org/data_format.html) page from OBIS. Also, the [OBIS 

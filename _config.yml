@@ -66,6 +66,9 @@ exclude:
 include: ['_pages']
 permalink: /:title/
 
+include: ['_posts']
+permalink: /:title/
+
 compress_html:
   clippings: all
 
